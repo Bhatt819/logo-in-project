@@ -1,0 +1,19 @@
+img {
+    display: block;
+    margin:  auto;
+    width: 1200px;
+    height: 600px;
+    left: 400px;
+    border-radius: 4px;
+  
+  }
+  a{
+    display: block;
+    margin:  auto;
+    height: 50px;
+    width: 80px; 
+    background-color: aqua; 
+    border: 12px;
+    border-color: brown;
+    
+  }
